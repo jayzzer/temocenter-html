@@ -1,0 +1,25 @@
+.short-reason {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 330px;
+
+    padding: 0 10px;
+
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 26px;
+}
+
+@media (max-width: 767px) {
+    .short-reason {
+        height: 140px;
+        text-align: left;
+        flex-direction: row;
+
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+}

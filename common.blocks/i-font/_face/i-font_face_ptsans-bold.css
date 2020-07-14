@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "PT Sans Bold";
+    src: url("./PTSans-Bold.ttf");
+}
+
+.i-font_face_ptsans-bold {
+    font-family: "PT Sans Bold", sans-serif;
+}

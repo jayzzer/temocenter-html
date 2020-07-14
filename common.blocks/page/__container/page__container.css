@@ -1,0 +1,11 @@
+.container {
+    margin: 0 auto;
+    width: calc(100% - 5rem);
+    background-color: #fff;
+}
+
+@media (max-width: 1023px) {
+    .container {
+        width: 100%;
+    }
+}

@@ -1,0 +1,11 @@
+.short-reason__icon {
+    margin-bottom: 35px;
+}
+
+@media (max-width: 767px) {
+    .short-reason__icon {
+        width: 50px;
+        margin-bottom: 0;
+        margin-right: 10px;
+    }
+}

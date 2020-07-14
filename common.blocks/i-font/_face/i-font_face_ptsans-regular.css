@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "PT Sans Regular";
+    src: url("./PTSans-Regular.ttf");
+}
+
+.i-font_face_ptsans-regular {
+    font-family: "PT Sans Regular", sans-serif;
+}

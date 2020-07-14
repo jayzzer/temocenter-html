@@ -1,0 +1,6 @@
+.mobile-nav__burger {
+    position: absolute;
+    right: 20px;
+    top: 50%;
+    margin-top: -13px;
+}

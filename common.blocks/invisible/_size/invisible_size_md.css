@@ -1,0 +1,5 @@
+@media (min-width: 768px) {
+    .invisible_size_md {
+        display: none;
+    }
+}

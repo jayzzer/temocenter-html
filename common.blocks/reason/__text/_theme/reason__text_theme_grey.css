@@ -1,0 +1,17 @@
+.reason__text_theme_grey {
+    position: relative;
+    background-color: #eee;
+}
+
+@media (max-width: 767px) {
+    .reason__text_theme_grey::after {
+        content: "";
+        display: block;
+        position: absolute;
+        margin: 0 auto;
+        width: 90%;
+        height: 1px;
+        background-color: #d6d6d6;
+        bottom: 0;
+    }
+}

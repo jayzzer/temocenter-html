@@ -1,0 +1,13 @@
+.footer {
+    display: flex;
+    height: 120px;
+
+    text-transform: uppercase;
+}
+
+@media (max-width: 767px) {
+    .footer {
+        flex-direction: column;
+        height: 242px;
+    }
+}

@@ -1,0 +1,8 @@
+.mobile-nav__logo {
+    position: absolute;
+
+    top: 0;
+    left: 50%;
+    margin-left: -94px;
+    z-index: 1;
+}

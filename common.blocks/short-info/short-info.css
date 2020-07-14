@@ -1,0 +1,11 @@
+.short-info {
+    padding: 50px 24%;
+    text-align: center;
+}
+
+@media (max-width: 767px) {
+    .short-info {
+        padding-right: 5%;
+        padding-left: 5%;
+    }
+}

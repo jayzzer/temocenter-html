@@ -1,0 +1,5 @@
+@media (max-width: 767px) {
+    .invisible_size_sm {
+        display: none;
+    }
+}

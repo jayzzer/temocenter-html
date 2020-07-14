@@ -1,0 +1,5 @@
+@media (min-width: 768px) {
+    .column_size_md-3 {
+        flex: 0 0 50%;
+    }
+}

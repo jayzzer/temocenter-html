@@ -1,0 +1,16 @@
+.navbar {
+    position: relative;
+    display: flex;
+
+    height: 55px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+@media (max-width: 767px) {
+    .navbar {
+        flex-direction: column;
+        height: auto;
+    }
+}

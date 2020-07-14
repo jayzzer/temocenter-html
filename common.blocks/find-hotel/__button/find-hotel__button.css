@@ -1,0 +1,16 @@
+.find-hotel__button {
+    width: 455px;
+    line-height: 55px;
+    height: 55px;
+
+    color: #fff;
+    font-size: 21px;
+    text-align: center;
+    background-color: #81b3d1;
+}
+
+@media (max-width: 767px) {
+    .find-hotel__button {
+        width: 80%;
+    }
+}

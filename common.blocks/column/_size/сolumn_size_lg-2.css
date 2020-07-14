@@ -1,0 +1,5 @@
+@media (min-width: 1024px) {
+    .column_size_lg-2 {
+        flex: 0 0 33.33333%;
+    }
+}

@@ -1,0 +1,9 @@
+.intro__text {
+    width: 500px;
+}
+
+@media (max-width: 767px) {
+    .intro__text {
+        width: 90%;
+    }
+}

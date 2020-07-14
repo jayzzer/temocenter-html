@@ -1,0 +1,11 @@
+.navbar__logo {
+    position: absolute;
+    top: 0;
+    z-index: 1;
+}
+
+@media (max-width: 767px) {
+    .navbar__logo {
+        top: 55px;
+    }
+}

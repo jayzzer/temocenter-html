@@ -1,0 +1,13 @@
+.short-reason__text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+@media (max-width: 767px) {
+    .short-reason__text {
+        width: 65%;
+        align-items: flex-start;
+    }
+}

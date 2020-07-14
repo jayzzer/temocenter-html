@@ -1,0 +1,14 @@
+.find-hotel {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    height: 330px;
+
+    padding: 0 10px;
+
+    text-align: center;
+    text-transform: uppercase;
+    line-height: 26px;
+}
