@@ -9,6 +9,15 @@
     font-size: 14px;
     text-align: center;
     text-transform: uppercase;
+
+    transition: color, background-color ease 0.2s;
+}
+
+.navbar__item__link:hover,
+.navbar__item__link:focus,
+.navbar__item__link:active {
+    color: #fff;
+    background-color: #81b3d1;
 }
 
 @media (max-width: 767px) {

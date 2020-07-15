@@ -7,6 +7,14 @@
     background-color: #81b3d1;
 
     margin-right: 5px;
+    
+    transition: background-color ease 0.3s;
+}
+
+.social__button:hover,
+.social__button:focus,
+.social__button:active {
+    background-color: #6ea0bd;
 }
 
 .social__button:last-child {

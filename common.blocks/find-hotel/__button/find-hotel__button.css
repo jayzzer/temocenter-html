@@ -7,6 +7,14 @@
     font-size: 21px;
     text-align: center;
     background-color: #81b3d1;
+
+    transition: background-color ease 0.3s;
+}
+
+.find-hotel__button:hover,
+.find-hotel__button:focus,
+.find-hotel__button:active {
+    background-color: #6ea0bd;
 }
 
 @media (max-width: 767px) {
